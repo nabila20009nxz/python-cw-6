@@ -14,4 +14,3 @@ def check_hobbies(person):
   if len( person["hobbies"])>=3:
     print("wow you are amazing") 
 check_hobbies(person)
-
